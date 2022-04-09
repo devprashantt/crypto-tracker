@@ -28,7 +28,7 @@ Finally we will create a beautifull User Interface in which user can select the 
   - How to loop through code using Dart for and for-in loops.
   - How to use Cupertino Widgets in your app.
   - How to check the platform your app is being run on to customise the UI for that platform.
-  - Revise previous concepts by completing the challenges.
+  - Revise previous points by completing the challenges.
 
 ## IDE & Programming language 🔧
 
@@ -36,7 +36,7 @@ This Application was devlopped with Flutter using the Android Studio
 
 ## Running The App 🔌
 
-No requirements you just have to set your device and fill the information asked and click the Weather button then check your location weather 😃
+No requirements you just have to set your device and select the desired currency and automatically you will get the value of BTC, ETH, LIT value 😃
 
 ## Reference ☁️
 
