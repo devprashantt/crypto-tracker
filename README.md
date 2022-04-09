@@ -1,5 +1,6 @@
 
-# 🤑 Crypto Coins 🤑
+# 🤑 Crypto Trackers 🤑
+
 
 ## Crypto Currency 🪙
 
