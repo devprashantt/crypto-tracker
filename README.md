@@ -42,7 +42,7 @@ No requirements you just have to set your device and fill the information asked 
 
   1 - https://www.coinapi.io/
 
-  2 - www.lovenitro.me
+  2 - https://sites.google.com/view/bloodfank/social/github
 
 ## Screenshots 📱
 
