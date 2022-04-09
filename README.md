@@ -36,7 +36,7 @@ This Application was devlopped with Flutter using the Android Studio
 
 ## Running The App 🔌
 
-No requirements you just have to set your device and select the desired currency and automatically you will get the value of BTC, ETH, LIT value 😃
+No requirements you just have to set your device and select the desired currency and automatically you will get the value of BTC, ETH, LIT in selected currency 😃
 
 ## Reference ☁️
 
