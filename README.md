@@ -1,15 +1,27 @@
 
 # 🤑 Crypto Coins 🤑
 
-## Our Goal
+## Crypto Currency 🪙
+
+A cryptocurrency, crypto-currency, or crypto is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.
+
+## Our Goal 🍁
 
 The objective of this project is to provide information about the trend of crypto coins in various currency like USD, INR and many others currencies.
 
-## What you will create
+## What you will create 🧩
 
 Finally we will create a beautifull User Interface in which user can select the currency in which he wants to gather the information about the crypto BTC, ETH & LIT.
 
-## What you will learn
+## List Of Currencies 🎟️
+
+    'AUD','INR','PLN','IDR'
+    'JPY','RON','SGD','HKD'
+    'MXN','RUB','USD','GBP'
+    'NOK','SEK','ZAR','EUR'
+    'NZD','BRL','CAD','CNY'
+    
+## What you will learn 🚨
 
   - How to use the DropdownButton Widget from Material design.
   - How to loop through code using Dart for and for-in loops.
@@ -17,6 +29,20 @@ Finally we will create a beautifull User Interface in which user can select the 
   - How to check the platform your app is being run on to customise the UI for that platform.
   - Revise previous concepts by completing the challenges.
 
-## Screenshots
+## IDE & Programming language 🔧
 
-<img src="Screenshots/Screenshots (1).png" width="200" height="400"> <img src="Screenshots/Screenshots (2).png" width="200" height="400"> <img src="Screenshots/Screenshots (3).png" width="200" height="400"> <img src="Screenshots/Screenshots (4).png" width="200" height="400"> <img src="Screenshots/Screenshots (5).png" width="200" height="400"> <img src="Screenshots/Screenshots (6).png" width="200" height="400"> 
+This Application was devlopped with Flutter using the Android Studio
+
+## Running The App 🔌
+
+No requirements you just have to set your device and fill the information asked and click the Weather button then check your location weather 😃
+
+## Reference ☁️
+
+  1 - https://www.coinapi.io/
+
+  2 - www.lovenitro.me
+
+## Screenshots 📱
+
+<img src="Screenshots/Screenshots (1).png" width="200" height="400"> <img src="Screenshots/Screenshots (2).png" width="200" height="400"> <img src="Screenshots/Screenshots (3).png" width="200" height="400"> <img src="Screenshots/Screenshots (4).png" width="200" height="400"> 
