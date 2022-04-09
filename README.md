@@ -19,4 +19,4 @@ Finally we will create a beautifull User Interface in which user can select the 
 
 ## Screenshots
 
-<img src="Screenshots/Screenshots (1).png" width="100" height="200"> <img src="Screenshots/Screenshots (2).png" width="100" height="200"> <img src="Screenshots/Screenshots (3).png" width="100" height="200"> <img src="Screenshots/Screenshots (4).png" width="100" height="200"> <img src="Screenshots/Screenshots (5).png" width="100" height="200"> <img src="Screenshots/Screenshots (6).png" width="100" height="200"> 
+<img src="Screenshots/Screenshots (1).png" width="300" height="400"> <img src="Screenshots/Screenshots (2).png" width="100" height="200"> <img src="Screenshots/Screenshots (3).png" width="100" height="200"> <img src="Screenshots/Screenshots (4).png" width="100" height="200"> <img src="Screenshots/Screenshots (5).png" width="100" height="200"> <img src="Screenshots/Screenshots (6).png" width="100" height="200"> 
