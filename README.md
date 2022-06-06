@@ -46,4 +46,4 @@ No requirements you just have to set your device and select the desired currency
 
 ## Screenshots 📱
 
-<img src="Screenshots/Screenshots (1).png" width="200" height="400"> <img src="Screenshots/Screenshots (2).png" width="200" height="400"> <img src="Screenshots/Screenshots (3).png" width="200" height="400"> <img src="Screenshots/Screenshots (4).png" width="200" height="400"> 
+<img src="screenshots/Screenshots (1).png" width="200" height="400"> <img src="screenshots/Screenshots (2).png" width="200" height="400"> <img src="screenshots/Screenshots (3).png" width="200" height="400"> <img src="screenshots/Screenshots (4).png" width="200" height="400"> 
