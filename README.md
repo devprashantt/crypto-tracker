@@ -1,29 +1,49 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-apikey = "65B1A2FE-67AC-47B5-B24B-888C7DE879D4"
-
-# Bitcoin Ticker 🤑
-
-## Our Goal
-
-The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
+# 🤑 Crypto Trackers 🤑
 
 
-## What you will create
+## Crypto Currency 🪙
 
-We’re going to make a crypto currency price checking app. By the end of the module, you'll be able to monitor your bitcoin investents on the move!
+A cryptocurrency, crypto-currency, or crypto is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+## Our Goal 🍁
 
-## What you will learn
+The objective of this project is to provide information about the trend of crypto coins in various currency like USD, INR and many others currencies.
 
-- How to use the DropdownButton Widget from Material design.
-- How to loop through code using Dart for and for-in loops.
-- How to use Cupertino Widgets in your app.
-- How to check the platform your app is being run on to customise the UI for that platform.
-- Revise previous concepts by completing the challenges.
+## What you will create 🧩
 
+Finally we will create a beautifull User Interface in which user can select the currency in which he wants to gather the information about the crypto BTC, ETH & LIT.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## List Of Currencies 🎟️
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+    'AUD','INR','PLN','IDR'
+    'JPY','RON','SGD','HKD'
+    'MXN','RUB','USD','GBP'
+    'NOK','SEK','ZAR','EUR'
+    'NZD','BRL','CAD','CNY'
+    
+## What you will learn 🚨
+
+  - How to use the DropdownButton Widget from Material design.
+  - How to loop through code using Dart for and for-in loops.
+  - How to use Cupertino Widgets in your app.
+  - How to check the platform your app is being run on to customise the UI for that platform.
+  - Revise previous points by completing the challenges.
+
+## IDE & Programming language 🔧
+
+This Application was devlopped with Flutter using the Android Studio
+
+## Running The App 🔌
+
+No requirements you just have to set your device and select the desired currency and automatically you will get the value of BTC, ETH, LIT in selected currency 😃
+
+## Reference ☁️
+
+  1 - https://www.coinapi.io/
+
+  2 - https://sites.google.com/view/bloodfank/social/github
+
+## Screenshots 📱
+
+<img src="Screenshots/Screenshots (1).png" width="200" height="400"> <img src="Screenshots/Screenshots (2).png" width="200" height="400"> <img src="Screenshots/Screenshots (3).png" width="200" height="400"> <img src="Screenshots/Screenshots (4).png" width="200" height="400"> 
